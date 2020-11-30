@@ -1,0 +1,11 @@
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\bin\Debug\Training_Practice_02.exe.config
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\bin\Debug\Training_Practice_02.exe
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\bin\Debug\Training_Practice_02.pdb
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.csprojAssemblyReference.cache
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.Menu.resources
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.Properties.Resources.resources
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.csproj.GenerateResource.cache
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.csproj.CoreCompileInputs.cache
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.exe
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.pdb
+C:\Users\79818\source\repos\Training_Practice_02\Training_Practice_02\obj\Debug\Training_Practice_02.Game.resources
